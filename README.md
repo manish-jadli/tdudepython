@@ -7,7 +7,7 @@
 
 .when user type both the value then.
 
-.create different variable for different mathematical operation.
+.create different variable for different mathematical operation like: additional, substraction, multiply, division.
 
 .print the value using the variable.
 
