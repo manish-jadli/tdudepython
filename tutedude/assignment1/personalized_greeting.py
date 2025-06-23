@@ -5,8 +5,7 @@ lastName=input("Enter your last name: ")
 print(firstName)
 print(lastName)
 
-#Concatenates the first name and last name into a full name.
-#Prints a personalized greeting message using the full name.
+#Concatenates first name & last name into  a fullname and Prints a personalized greeting message using the full name.
 
 print("Hello,",firstName + " " + lastName + "! " + "welcome to the python program.")
 

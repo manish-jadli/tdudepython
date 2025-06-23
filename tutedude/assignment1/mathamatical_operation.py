@@ -1,4 +1,4 @@
-#Takes two numbers as input from the user
+#Two numbers as input from the user
 firstInput=int(input("Enter the first number: "))
 secondInput=int(input("Enter the second number: "))
 
@@ -9,11 +9,11 @@ print(secondInput)
 
 additionalCalc= firstInput + secondInput
 subtractionCalc= firstInput - secondInput
-multiplicatonCalc=firstInput * secondInput
+multiplicationCalc=firstInput * secondInput
 divisionCalc=firstInput / secondInput
 
-print("Additon: ", additionalCalc)
+print("Addition: ", additionalCalc)
 print("Substraction: ",subtractionCalc)
-print("Multiplication: ", multiplicatonCalc)
+print("Multiplication: ", multiplicationCalc)
 print(("Division: "), divisionCalc)
 

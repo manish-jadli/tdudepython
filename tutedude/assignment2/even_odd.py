@@ -2,7 +2,7 @@
 number=int(input("Enter a number: "))
 oddVar=number % 2 == 0
 
-#Logic for odd or even number
+#Logic of odd or even number
 if oddVar:
     print(number, "is an even number.")
 else:
